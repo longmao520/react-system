@@ -1,0 +1,9 @@
+.logo {
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    color: #fff;
+    margin: 10px;
+    opacity: .8;
+    /* background-color: #000;*/
+}
